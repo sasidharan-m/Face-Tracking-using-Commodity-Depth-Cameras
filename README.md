@@ -1,3 +1,5 @@
+#Face Tracking using Commodity Depth Cameras:
+
 The aim of this project is to construct a method to track a user’s
 face using commodity depth cameras. A precise tracking algorithm
 allows a person to easily generate a high quality 3D model of one’s
