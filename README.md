@@ -1,4 +1,4 @@
-#Face Tracking using Commodity Depth Cameras:
+# Face Tracking using Commodity Depth Cameras
 
 The aim of this project is to construct a method to track a user’s
 face using commodity depth cameras. A precise tracking algorithm
